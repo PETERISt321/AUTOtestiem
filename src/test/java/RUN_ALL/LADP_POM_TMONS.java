@@ -8,7 +8,7 @@ public class LADP_POM_TMONS extends DriverCommon {
 
     DriverCommon driverCommon = new DriverCommon();
     LADP_homeLapa ladpHomeLapa = new LADP_homeLapa();
-    @Test(priority = 3)
+    @Test(priority = 3)4
     public void LADP_chromeTmons(){
         driverCommon.startDriverChrome();
         ladpHomeLapa.atvertLADPlapa();
