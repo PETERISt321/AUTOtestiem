@@ -299,12 +299,12 @@
       <![CDATA[ Lapa ir aizvērta]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-10-06T10:27:26 EEST" name="Default Suite" finished-at="2023-10-06T10:31:13 EEST" duration-ms="227009">
+  <suite started-at="2023-10-06T14:59:15 EEST" name="Default Suite" finished-at="2023-10-06T15:02:32 EEST" duration-ms="196815">
     <groups>
     </groups>
-    <test started-at="2023-10-06T10:27:26 EEST" name="SC_Test" finished-at="2023-10-06T10:31:13 EEST" duration-ms="227009">
+    <test started-at="2023-10-06T14:59:15 EEST" name="AUTOtestiem2" finished-at="2023-10-06T15:02:32 EEST" duration-ms="196815">
       <class name="RUN_ALL.RAIM_POM_TMONS">
-        <test-method signature="Raim_Fire_TMON()[pri:1, instance:RUN_ALL.RAIM_POM_TMONS@3148f668]" started-at="2023-10-06T10:29:39 EEST" name="Raim_Fire_TMON" finished-at="2023-10-06T10:30:38 EEST" duration-ms="59103" status="PASS">
+        <test-method signature="Raim_Fire_TMON()[pri:1, instance:RUN_ALL.RAIM_POM_TMONS@152aa092]" started-at="2023-10-06T15:01:20 EEST" name="Raim_Fire_TMON" finished-at="2023-10-06T15:01:51 EEST" duration-ms="31502" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Firefox ir palaists]]>
@@ -344,7 +344,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- Raim_Fire_TMON -->
-        <test-method signature="Raim_Crome_TMON()[pri:2, instance:RUN_ALL.RAIM_POM_TMONS@3148f668]" started-at="2023-10-06T10:30:38 EEST" name="Raim_Crome_TMON" finished-at="2023-10-06T10:30:53 EEST" duration-ms="14337" status="PASS">
+        <test-method signature="Raim_Crome_TMON()[pri:2, instance:RUN_ALL.RAIM_POM_TMONS@152aa092]" started-at="2023-10-06T15:01:51 EEST" name="Raim_Crome_TMON" finished-at="2023-10-06T15:02:08 EEST" duration-ms="17298" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Chrome ir palaists]]>
@@ -384,7 +384,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- Raim_Crome_TMON -->
-        <test-method signature="Raim_Edge_TMON()[pri:3, instance:RUN_ALL.RAIM_POM_TMONS@3148f668]" started-at="2023-10-06T10:30:53 EEST" name="Raim_Edge_TMON" finished-at="2023-10-06T10:31:13 EEST" duration-ms="20011" status="PASS">
+        <test-method signature="Raim_Edge_TMON()[pri:3, instance:RUN_ALL.RAIM_POM_TMONS@152aa092]" started-at="2023-10-06T15:02:08 EEST" name="Raim_Edge_TMON" finished-at="2023-10-06T15:02:32 EEST" duration-ms="23281" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Edge ir palaists]]>
@@ -426,7 +426,7 @@
         </test-method> <!-- Raim_Edge_TMON -->
       </class> <!-- RUN_ALL.RAIM_POM_TMONS -->
       <class name="RUN_ALL.LADP_POM_TMONS">
-        <test-method signature="LADP_FireTmons()[pri:1, instance:RUN_ALL.LADP_POM_TMONS@418c5a9c]" started-at="2023-10-06T10:27:26 EEST" name="LADP_FireTmons" finished-at="2023-10-06T10:28:22 EEST" duration-ms="56485" status="PASS">
+        <test-method signature="LADP_FireTmons()[pri:1, instance:RUN_ALL.LADP_POM_TMONS@8317c52]" started-at="2023-10-06T14:59:15 EEST" name="LADP_FireTmons" finished-at="2023-10-06T15:00:08 EEST" duration-ms="52805" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Firefox ir palaists]]>
@@ -493,7 +493,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- LADP_FireTmons -->
-        <test-method signature="LADP_EdgeTmons()[pri:2, instance:RUN_ALL.LADP_POM_TMONS@418c5a9c]" started-at="2023-10-06T10:28:22 EEST" name="LADP_EdgeTmons" finished-at="2023-10-06T10:29:01 EEST" duration-ms="38895" status="PASS">
+        <test-method signature="LADP_EdgeTmons()[pri:2, instance:RUN_ALL.LADP_POM_TMONS@8317c52]" started-at="2023-10-06T15:00:08 EEST" name="LADP_EdgeTmons" finished-at="2023-10-06T15:00:53 EEST" duration-ms="45418" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Edge ir palaists]]>
@@ -560,7 +560,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- LADP_EdgeTmons -->
-        <test-method signature="LADP_chromeTmons()[pri:3, instance:RUN_ALL.LADP_POM_TMONS@418c5a9c]" started-at="2023-10-06T10:29:01 EEST" name="LADP_chromeTmons" finished-at="2023-10-06T10:29:39 EEST" duration-ms="37824" status="PASS">
+        <test-method signature="LADP_chromeTmons()[pri:3, instance:RUN_ALL.LADP_POM_TMONS@8317c52]" started-at="2023-10-06T15:00:53 EEST" name="LADP_chromeTmons" finished-at="2023-10-06T15:01:20 EEST" duration-ms="26169" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Chrome ir palaists]]>
@@ -628,6 +628,6 @@
           </reporter-output>
         </test-method> <!-- LADP_chromeTmons -->
       </class> <!-- RUN_ALL.LADP_POM_TMONS -->
-    </test> <!-- SC_Test -->
+    </test> <!-- AUTOtestiem2 -->
   </suite> <!-- Default Suite -->
 </testng-results>
