@@ -3,11 +3,6 @@
 <suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="SC_Test(failed)">
     <classes>
-      <class name="RUN_ALL.RAIM_POM_TMONS">
-        <methods>
-          <include name="Raim_Fire_TMON"/>
-        </methods>
-      </class> <!-- RUN_ALL.RAIM_POM_TMONS -->
       <class name="RUN_ALL.LADP_POM_TMONS">
         <methods>
           <include name="LADP_FireTmons"/>
